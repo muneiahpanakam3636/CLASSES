@@ -7,7 +7,7 @@ class Account{
 
     }
     get_bal(){
-        return this.acc_bal-this.min_bal;
+       return  this.acc_bal-this.min_bal;
     }
     
 }
